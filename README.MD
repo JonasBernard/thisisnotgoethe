@@ -1,0 +1,1 @@
+This Flask server providing a Keras model requires Python 3.9 (not newer!) to ensure compatibility with Tensorflow.
